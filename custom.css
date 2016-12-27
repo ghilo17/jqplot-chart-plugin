@@ -1,0 +1,11 @@
+table.jqplot-table-legend {
+    width: 350px !important;
+    top: -125px !important;
+    left: 67% !important;
+}
+td.jqplot-table-legend.jqplot-table-legend-swatch {
+    width: 50px;
+}
+.jqplot-xaxis-tick {
+    color: #555555 !important;
+}
