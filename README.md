@@ -5,4 +5,4 @@ Customized Chart Plugin | A custom jqplot plugin
 http://prnt.sc/doevi6
 
 #Author
-[Gimel Contillo]http://facebook.com/bijuumode
+[Gimel Contillo](http://facebook.com/bijuumode)
