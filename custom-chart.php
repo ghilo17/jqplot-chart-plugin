@@ -5,7 +5,7 @@
     * Version: 1.0.0
     * Author: Gimel Contillo | After Image Designs
     * Author URI: http://www.facebook.com/bijuumode
-    * License: MIT
+    * License: GPL 2.0
     */
 
 
